@@ -1,2 +1,1 @@
-# harcore-game
-op
+# HexGL-by-BKcore
